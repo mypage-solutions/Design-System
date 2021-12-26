@@ -1,4 +1,4 @@
 <h1>Design-System</h1>
 <p>Codecademy Project: 
-<a href="https://mypage-solutions.github.io/Excursion/">Design-System</a>
+<a href="https://mypage-solutions.github.io/Design-System/">Design-System</a>
 </p>
