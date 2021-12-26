@@ -218,3 +218,9 @@ footer div {
   width: 80%;
   height: 40px;
 }
+
+@media screen and (max-width: 736px) {
+  .colorBox p {
+    visibility: hidden;
+  }
+}
